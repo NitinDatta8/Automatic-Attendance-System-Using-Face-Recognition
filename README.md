@@ -1,0 +1,2 @@
+# Automatic-Attendance-System-Using-Face-Recognition
+This is a face detection and recognition system for the whole classroom using CCTV camera. It will recognize the face of each student in a class simultaneously and can mark attendance at a specified time. Moreover, it will recognize the student satisfaction level in real time to grade the lecture quality. In future, we are thinking to scale this…
